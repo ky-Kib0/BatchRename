@@ -7,4 +7,6 @@ BatRename.bat必须与图片处于同级目录中，最好是纯英文路径
           https://blog.csdn.net/kaka20099527/article/details/50969792 循环自加
           https://zhidao.baidu.com/question/1046230583031879219.html Dir定位用法
           https://www.bilibili.com/video/BV1Av411W71q?p=2&spm_id_from=333.1007.top_right_bar_window_history.content.click 基本逻辑
+          https://zhidao.baidu.com/question/505516338.html 批处理命令去除文件命名中的空格
+          https://zhidao.baidu.com/question/266487480633308725.html if语句条件并列
           
